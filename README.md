@@ -11,7 +11,7 @@ JSON POST
 ## API
 Description
 
-This JSON POST API endpoint enables clients to insert or alter data to a server for actions like creating new records or updating existing ones. Data is transmitted in JSON format within the request body, making it easier to work with, the server responds with an HTTP status code and a JSON response containing relevant information. It can be used for various purposes, including user registration, data updates, or triggering custom processes, with authentication measures in place for secure access. 
+This JSON POST API endpoint enables clients to insert or alter data to a server for actions like creating new records or updating existing ones. Data is transmitted in JSON format within the request body, making it easier to work with, the server responds with an HTTP status code and a JSON response containing relevant information.
 
 
 
@@ -182,7 +182,6 @@ provided:
 Include contact
 information for inquiries or support.
 
-Jaynard A. Raqueño 
-- jaynard.raqueno@student.dmmmsu.edu.ph
-- 09925915896
-- 09772104738
+Jarold B. Rimorin 
+- jarold.rimorin@student.dmmmsu.edu.ph
+- 09123438932
